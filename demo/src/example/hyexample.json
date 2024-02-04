@@ -1,0 +1,820 @@
+{
+    "counters": {
+        "u_row": 9,
+        "u_column": 14,
+        "u_content_menu": 1,
+        "u_content_text": 24,
+        "u_content_image": 9,
+        "u_content_button": 2,
+        "u_content_divider": 1,
+        "u_content_heading": 3
+    },
+    "body": {
+        "id": "0QFAKPxyzM",
+        "rows": [
+            {
+                "id": "A-f41NTazI",
+                "cells": [
+                    1,
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "SfLBIwDbWU",
+                        "contents": [
+                            {
+                                "id": "vjfsdzgJRX",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#FFFFFF",
+                                        "backgroundColor": "#0071e3",
+                                        "hoverColor": "#FFFFFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "17px",
+                                    "textAlign": "right",
+                                    "lineHeight": "120%",
+                                    "padding": "10px 20px",
+                                    "border": {},
+                                    "borderRadius": "25px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_2",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"line-height: 20.4px;\">まずは資料をダウンロード</span>",
+                                    "calculatedWidth": 216,
+                                    "calculatedHeight": 40,
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                },
+                                "hasDeprecatedFontControls": true
+                            }
+                        ],
+                        "values": {
+                            "_meta": {
+                                "htmlID": "u_column_2",
+                                "htmlClassNames": "u_column"
+                            },
+                            "border": {},
+                            "padding": "0px",
+                            "borderRadius": "0px",
+                            "backgroundColor": ""
+                        }
+                    },
+                    {
+                        "id": "oHGVnfFNrL",
+                        "contents": [
+                            {
+                                "id": "X9LHO8t95H",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "20px",
+                                    "anchor": "",
+                                    "fontSize": "17px",
+                                    "color": "#0071e3",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_3",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><a rel=\"noopener\" href=\"https://www.pick-form.com/#about\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoid2ViIiwiYXR0cnMiOnsiaHJlZiI6Int7aHJlZn19IiwidGFyZ2V0Ijoie3t0YXJnZXR9fSJ9LCJ2YWx1ZXMiOnsiaHJlZiI6Imh0dHBzOi8vd3d3LnBpY2stZm9ybS5jb20vI2Fib3V0IiwidGFyZ2V0IjoiX2JsYW5rIn19\"><span style=\"text-decoration: underline; line-height: 23.8px;\"><span style=\"color: #ecf0f1; line-height: 23.8px;\">もっと見る</span></span></a></p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "values": {
+                            "_meta": {
+                                "htmlID": "u_column_3",
+                                "htmlClassNames": "u_column"
+                            },
+                            "border": {},
+                            "padding": "0px",
+                            "borderRadius": "0px",
+                            "backgroundColor": ""
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": "no-repeat",
+                        "size": "custom",
+                        "position": "center"
+                    },
+                    "padding": "0px",
+                    "anchor": "",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_2",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "id": "DUViVMUDEF",
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "o9MfKfK5Xl",
+                        "contents": [
+                            {
+                                "id": "iEmfF6xJBD",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontWeight": 700,
+                                    "fontSize": "31px",
+                                    "color": "#9d9d9d",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_4",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><span style=\"line-height: 29.4px; color: #c2e0f4;\">不動産取引を適法に</span></p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "lineHeight": "140%",
+                                            "fontSize": "18px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "id": "sFgKpswUDF",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://assets.unlayer.com/stock-templates/1707087269628-726836",
+                                        "width": 512,
+                                        "height": 512
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_9",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_14",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": "no-repeat",
+                        "size": "custom",
+                        "position": "center"
+                    },
+                    "padding": "0px",
+                    "anchor": "",
+                    "_meta": {
+                        "htmlID": "u_row_9",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "id": "Rd4HAvqb8t",
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "_t6kskqCwL",
+                        "contents": [
+                            {
+                                "id": "usZCBV0vIV",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontWeight": 400,
+                                    "fontSize": "18px",
+                                    "color": "#9d9d9d",
+                                    "textAlign": "center",
+                                    "lineHeight": "130%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_7",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 130%;\"><span style=\"color: #c7fffe; line-height: 23.4px;\">PICKFORMは国内で唯一国土交通大臣より適法である旨の回答を取得した不動産電子取引サービス。不動産取引をオンライン上で適法に行えます。不動産取引だけでなく、工事請負、駐車場契約などあらゆる契約でもご利用いただけます。</span></p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "fontSize": "18px"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "values": {
+                            "_meta": {
+                                "htmlID": "u_column_4",
+                                "htmlClassNames": "u_column"
+                            },
+                            "border": {},
+                            "padding": "0px",
+                            "borderRadius": "0px",
+                            "backgroundColor": ""
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": "no-repeat",
+                        "size": "custom",
+                        "position": "center"
+                    },
+                    "padding": "15px 15px 70px",
+                    "anchor": "",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_3",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "id": "GyxkKaDoVf",
+                "cells": [
+                    1,
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "_QiC12awFa",
+                        "contents": [
+                            {
+                                "id": "S_hqZ7HMSl",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://assets.unlayer.com/projects/139/1676496501021-specialist_2x.jpg",
+                                        "width": 712,
+                                        "height": 550
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_6",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "_meta": {
+                                "htmlID": "u_column_12",
+                                "htmlClassNames": "u_column"
+                            },
+                            "border": {},
+                            "padding": "0px",
+                            "borderRadius": "0px",
+                            "backgroundColor": ""
+                        }
+                    },
+                    {
+                        "id": "tBvHHdYsbP",
+                        "contents": [
+                            {
+                                "id": "YBq_C6WCxM",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontSize": "24px",
+                                    "textAlign": "center",
+                                    "lineHeight": "120%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_18",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 120%;\">Shop one on one with</p>\n<p style=\"line-height: 120%;\">a Mac Specialist.</p>"
+                                }
+                            },
+                            {
+                                "id": "0DF1Wlu-f8",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontSize": "14px",
+                                    "textAlign": "center",
+                                    "lineHeight": "150%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_19",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 150%;\">Our Specialists can help you choose, configure, and buy the perfect Mac.</p>"
+                                }
+                            },
+                            {
+                                "id": "3PX82nq2MS",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontSize": "14px",
+                                    "color": "#0071e3",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_20",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">Find a store</p>"
+                                }
+                            }
+                        ],
+                        "values": {
+                            "_meta": {
+                                "htmlID": "u_column_13",
+                                "htmlClassNames": "u_column"
+                            },
+                            "border": {},
+                            "padding": "33px",
+                            "borderRadius": "0px",
+                            "backgroundColor": ""
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "#f7f7f7",
+                    "columnsBackgroundColor": "#000000",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": "no-repeat",
+                        "size": "custom",
+                        "position": "center"
+                    },
+                    "padding": "5px",
+                    "anchor": "",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_8",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "id": "he9WBb_LIA",
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "9KxIY1TsoO",
+                        "contents": [
+                            {
+                                "id": "TJ6qaeBuzl",
+                                "type": "menu",
+                                "values": {
+                                    "containerPadding": "5px",
+                                    "anchor": "",
+                                    "menu": {
+                                        "items": [
+                                            {
+                                                "key": "1676496571373",
+                                                "link": {
+                                                    "name": "web",
+                                                    "attrs": {
+                                                        "href": "{{href}}",
+                                                        "target": "{{target}}"
+                                                    },
+                                                    "values": {
+                                                        "href": "https://www.apple.com/",
+                                                        "target": "_self"
+                                                    }
+                                                },
+                                                "text": "Shop Online"
+                                            },
+                                            {
+                                                "key": "1676496577930",
+                                                "link": {
+                                                    "name": "web",
+                                                    "attrs": {
+                                                        "href": "{{href}}",
+                                                        "target": "{{target}}"
+                                                    },
+                                                    "values": {
+                                                        "href": "https://www.apple.com/",
+                                                        "target": "_self"
+                                                    }
+                                                },
+                                                "text": "Find a Store"
+                                            },
+                                            {
+                                                "key": "1676496581406",
+                                                "link": {
+                                                    "name": "web",
+                                                    "attrs": {
+                                                        "href": "{{href}}",
+                                                        "target": "{{target}}"
+                                                    },
+                                                    "values": {
+                                                        "href": "https://www.apple.com/",
+                                                        "target": "_self"
+                                                    }
+                                                },
+                                                "text": "1-800-MY-APPLE"
+                                            },
+                                            {
+                                                "key": "1676496588057",
+                                                "link": {
+                                                    "name": "web",
+                                                    "attrs": {
+                                                        "href": "{{href}}",
+                                                        "target": "{{target}}"
+                                                    },
+                                                    "values": {
+                                                        "href": "https://www.apple.com/",
+                                                        "target": "_self"
+                                                    }
+                                                },
+                                                "text": "Get the Apple Store App"
+                                            }
+                                        ]
+                                    },
+                                    "fontSize": "14px",
+                                    "textColor": "#424245",
+                                    "linkColor": "#d2d2d7",
+                                    "align": "center",
+                                    "layout": "horizontal",
+                                    "separator": "|",
+                                    "padding": "5px 10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_menu_1",
+                                        "htmlClassNames": "u_content_menu"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "layout": "vertical"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "id": "mNBB5zCn71",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "1px",
+                                        "borderTopStyle": "solid",
+                                        "borderTopColor": "#424245"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_1",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "id": "bo4vg76emo",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontSize": "12px",
+                                    "color": "#86868b",
+                                    "textAlign": "left",
+                                    "lineHeight": "200%",
+                                    "linkStyle": {
+                                        "inherit": false,
+                                        "linkColor": "#d2d2d7",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": false,
+                                        "linkHoverUnderline": true,
+                                        "body": false
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_17",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 200%;\"><span style=\"color: #ecf0f1; line-height: 24px;\">pickform footer</span></p>\n<p style=\"line-height: 200%;\"><a rel=\"noopener\" href=\"https://www.pick-form.com/\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoid2ViIiwiYXR0cnMiOnsiaHJlZiI6Int7aHJlZn19IiwidGFyZ2V0Ijoie3t0YXJnZXR9fSJ9LCJ2YWx1ZXMiOnsiaHJlZiI6Imh0dHBzOi8vd3d3LnBpY2stZm9ybS5jb20vIiwidGFyZ2V0IjoiX2JsYW5rIn19\">coporation site</a>: <a href=\"https://www.pick-form.com/\">https://www.pick-form.com/</a></p>"
+                                }
+                            }
+                        ],
+                        "values": {
+                            "_meta": {
+                                "htmlID": "u_column_10",
+                                "htmlClassNames": "u_column"
+                            },
+                            "border": {},
+                            "padding": "0px 30px",
+                            "borderRadius": "0px",
+                            "backgroundColor": ""
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "#1d1d1f",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": "no-repeat",
+                        "size": "custom",
+                        "position": "center"
+                    },
+                    "padding": "10px 10px 50px",
+                    "anchor": "",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_7",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            }
+        ],
+        "headers": [],
+        "footers": [],
+        "values": {
+            "popupPosition": "center",
+            "popupWidth": "600px",
+            "popupHeight": "auto",
+            "borderRadius": "10px",
+            "contentAlign": "center",
+            "contentVerticalAlign": "center",
+            "contentWidth": 700,
+            "fontFamily": {
+                "label": "Helvetica",
+                "value": "helvetica,sans-serif",
+                "url": "",
+                "weights": null,
+                "defaultFont": true
+            },
+            "textColor": "#ffffff",
+            "popupBackgroundColor": "#FFFFFF",
+            "popupBackgroundImage": {
+                "url": "",
+                "fullWidth": true,
+                "repeat": "no-repeat",
+                "size": "cover",
+                "position": "center"
+            },
+            "popupOverlay_backgroundColor": "rgba(0, 0, 0, 0.1)",
+            "popupCloseButton_position": "top-right",
+            "popupCloseButton_backgroundColor": "#DDDDDD",
+            "popupCloseButton_iconColor": "#000000",
+            "popupCloseButton_borderRadius": "0px",
+            "popupCloseButton_margin": "0px",
+            "popupCloseButton_action": {
+                "name": "close_popup",
+                "attrs": {
+                    "onClick": "document.querySelector('.u-popup-container').style.display = 'none';"
+                }
+            },
+            "backgroundColor": "#000000",
+            "preheaderText": "",
+            "linkStyle": {
+                "body": true,
+                "linkColor": "#0071e3",
+                "linkHoverColor": "#0000ee",
+                "linkUnderline": true,
+                "linkHoverUnderline": true,
+                "inherit": false
+            },
+            "backgroundImage": {
+                "url": "",
+                "fullWidth": true,
+                "repeat": "no-repeat",
+                "size": "custom",
+                "position": "center"
+            },
+            "_meta": {
+                "htmlID": "u_body",
+                "htmlClassNames": "u_body"
+            }
+        }
+    },
+    "schemaVersion": 16
+}
