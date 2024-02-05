@@ -1,13 +1,14 @@
 {
     "counters": {
-        "u_row": 9,
-        "u_column": 14,
+        "u_row": 11,
+        "u_column": 18,
         "u_content_menu": 1,
-        "u_content_text": 24,
-        "u_content_image": 9,
-        "u_content_button": 2,
+        "u_content_text": 25,
+        "u_content_image": 11,
+        "u_content_button": 4,
         "u_content_divider": 1,
-        "u_content_heading": 3
+        "u_content_heading": 5,
+        "u_content_html": 1
     },
     "body": {
         "id": "0QFAKPxyzM",
@@ -30,8 +31,12 @@
                                     "anchor": "",
                                     "href": {
                                         "name": "web",
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        },
                                         "values": {
-                                            "href": "",
+                                            "href": "https://www.pick-form.com/pages/request-documents",
                                             "target": "_blank"
                                         }
                                     },
@@ -116,7 +121,7 @@
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><a rel=\"noopener\" href=\"https://www.pick-form.com/#about\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoid2ViIiwiYXR0cnMiOnsiaHJlZiI6Int7aHJlZn19IiwidGFyZ2V0Ijoie3t0YXJnZXR9fSJ9LCJ2YWx1ZXMiOnsiaHJlZiI6Imh0dHBzOi8vd3d3LnBpY2stZm9ybS5jb20vI2Fib3V0IiwidGFyZ2V0IjoiX2JsYW5rIn19\"><span style=\"text-decoration: underline; line-height: 23.8px;\"><span style=\"color: #ecf0f1; line-height: 23.8px;\">もっと見る</span></span></a></p>",
+                                    "text": "<p style=\"line-height: 140%;\"><a href=\"https://www.pick-form.com/about\" target=\"_self\" data-u-link-value=\"eyJuYW1lIjoid2ViIiwiYXR0cnMiOnsiaHJlZiI6Int7aHJlZn19IiwidGFyZ2V0Ijoie3t0YXJnZXR9fSJ9LCJ2YWx1ZXMiOnsiaHJlZiI6Imh0dHBzOi8vd3d3LnBpY2stZm9ybS5jb20vYWJvdXQiLCJ0YXJnZXQiOiJfc2VsZiJ9fQ==\"><span style=\"text-decoration: underline; line-height: 23.8px;\"><span style=\"color: #ecf0f1; line-height: 23.8px;\">もっと見る</span></span></a></p>",
                                     "_override": {
                                         "mobile": {
                                             "textAlign": "center"
@@ -173,53 +178,17 @@
                         "id": "o9MfKfK5Xl",
                         "contents": [
                             {
-                                "id": "iEmfF6xJBD",
-                                "type": "text",
-                                "values": {
-                                    "containerPadding": "10px",
-                                    "anchor": "",
-                                    "fontWeight": 700,
-                                    "fontSize": "31px",
-                                    "color": "#9d9d9d",
-                                    "textAlign": "center",
-                                    "lineHeight": "140%",
-                                    "linkStyle": {
-                                        "inherit": true,
-                                        "linkColor": "#0000ee",
-                                        "linkHoverColor": "#0000ee",
-                                        "linkUnderline": true,
-                                        "linkHoverUnderline": true
-                                    },
-                                    "hideDesktop": false,
-                                    "displayCondition": null,
-                                    "_meta": {
-                                        "htmlID": "u_content_text_4",
-                                        "htmlClassNames": "u_content_text"
-                                    },
-                                    "selectable": true,
-                                    "draggable": true,
-                                    "duplicatable": true,
-                                    "deletable": true,
-                                    "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><span style=\"line-height: 29.4px; color: #c2e0f4;\">不動産取引を適法に</span></p>",
-                                    "_override": {
-                                        "mobile": {
-                                            "lineHeight": "140%",
-                                            "fontSize": "18px"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "id": "sFgKpswUDF",
+                                "id": "eSA0jSsgqs",
                                 "type": "image",
                                 "values": {
                                     "containerPadding": "10px",
                                     "anchor": "",
                                     "src": {
-                                        "url": "https://assets.unlayer.com/stock-templates/1707087269628-726836",
-                                        "width": 512,
-                                        "height": 512
+                                        "url": "https://dev.pick-form.com/lpv2/header/LOGO_WHITE.png",
+                                        "width": 340,
+                                        "height": 58,
+                                        "autoWidth": false,
+                                        "maxWidth": "26%"
                                     },
                                     "textAlign": "center",
                                     "altText": "",
@@ -230,9 +199,10 @@
                                             "target": "_blank"
                                         }
                                     },
+                                    "hideDesktop": false,
                                     "displayCondition": null,
                                     "_meta": {
-                                        "htmlID": "u_content_image_9",
+                                        "htmlID": "u_content_image_10",
                                         "htmlClassNames": "u_content_image"
                                     },
                                     "selectable": true,
@@ -269,8 +239,174 @@
                     },
                     "padding": "0px",
                     "anchor": "",
+                    "hideDesktop": false,
                     "_meta": {
                         "htmlID": "u_row_9",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "id": "cQLMdmFPTv",
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "ZytHBkHDOm",
+                        "contents": [
+                            {
+                                "id": "8LXs24UVkC",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://images.microcms-assets.io/assets/619883e6e8be4635825dcfc7388cc373/6b826175861b47f79ba3b843f6fbfa1d/%E7%B4%B9%E4%BB%8B%E8%B3%87%E6%96%99_%E8%A6%8B%E6%9C%AC.png",
+                                        "width": 1920,
+                                        "height": 1080
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_11",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "id": "amyjXE5YE2",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontSize": "14px",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_25",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">リリース内容<br />${リリースノート}</p>\n<p style=\"line-height: 140%;\">${書類ID}</p>\n<p style=\"line-height: 140%;\">${書類名}</p>"
+                                }
+                            },
+                            {
+                                "id": "9G0H92Vjbf",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#FFFFFF",
+                                        "backgroundColor": "#3AAEE0",
+                                        "hoverColor": "#FFFFFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "14px",
+                                    "textAlign": "center",
+                                    "lineHeight": "120%",
+                                    "padding": "10px 20px",
+                                    "border": {
+                                        "borderTopWidth": "2px",
+                                        "borderTopStyle": "solid",
+                                        "borderTopColor": "#f7f4f4",
+                                        "borderLeftWidth": "2px",
+                                        "borderLeftStyle": "solid",
+                                        "borderLeftColor": "#f7f4f4",
+                                        "borderRightWidth": "2px",
+                                        "borderRightStyle": "solid",
+                                        "borderRightColor": "#f7f4f4",
+                                        "borderBottomWidth": "2px",
+                                        "borderBottomStyle": "solid",
+                                        "borderBottomColor": "#f7f4f4"
+                                    },
+                                    "borderRadius": "4px",
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_4",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"line-height: 16.8px;\">Button Text</span>",
+                                    "calculatedWidth": 110,
+                                    "calculatedHeight": 37
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_15",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": "no-repeat",
+                        "size": "custom",
+                        "position": "center"
+                    },
+                    "padding": "0px",
+                    "anchor": "",
+                    "_meta": {
+                        "htmlID": "u_row_10",
                         "htmlClassNames": "u_row"
                     },
                     "selectable": true,
@@ -318,12 +454,91 @@
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 130%;\"><span style=\"color: #c7fffe; line-height: 23.4px;\">PICKFORMは国内で唯一国土交通大臣より適法である旨の回答を取得した不動産電子取引サービス。不動産取引をオンライン上で適法に行えます。不動産取引だけでなく、工事請負、駐車場契約などあらゆる契約でもご利用いただけます。</span></p>",
+                                    "text": "<p style=\"line-height: 130%;\"><span style=\"color: #c7fffe; line-height: 23.4px;\">PICKFORMは国内で唯一国土交通大臣より</span></p>\n<p style=\"line-height: 130%;\"><span style=\"color: #c7fffe; line-height: 23.4px;\">適法である旨の回答を取得した不動産電子取引サービス。不動産取引をオンライン上で適法に行えます。</span></p>\n<p style=\"line-height: 130%;\"><span style=\"color: #c7fffe; line-height: 23.4px;\">不動産取引だけでなく、工事請負、駐車場契約などあらゆる契約でもご利用いただけます。</span></p>",
                                     "_override": {
                                         "mobile": {
                                             "fontSize": "18px"
                                         }
                                     }
+                                }
+                            },
+                            {
+                                "id": "sFgKpswUDF",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://dev.pick-form.com/lpv2/solutions/SIMPLE.png",
+                                        "width": 2072,
+                                        "height": 1224,
+                                        "autoWidth": false,
+                                        "maxWidth": "76%"
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_9",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "id": "sMfqNe8KKT",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#FFFFFF",
+                                        "backgroundColor": "#3AAEE0",
+                                        "hoverColor": "#FFFFFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "14px",
+                                    "textAlign": "center",
+                                    "lineHeight": "120%",
+                                    "padding": "10px 20px",
+                                    "border": {},
+                                    "borderRadius": "4px",
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_3",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"line-height: 16.8px;\">ボタン</span>",
+                                    "calculatedWidth": 76,
+                                    "calculatedHeight": 37
                                 }
                             }
                         ],
@@ -366,131 +581,22 @@
                 }
             },
             {
-                "id": "GyxkKaDoVf",
+                "id": "he9WBb_LIA",
                 "cells": [
-                    1,
                     1
                 ],
                 "columns": [
                     {
-                        "id": "_QiC12awFa",
+                        "id": "9KxIY1TsoO",
                         "contents": [
                             {
-                                "id": "S_hqZ7HMSl",
-                                "type": "image",
-                                "values": {
-                                    "containerPadding": "0px",
-                                    "anchor": "",
-                                    "src": {
-                                        "url": "https://assets.unlayer.com/projects/139/1676496501021-specialist_2x.jpg",
-                                        "width": 712,
-                                        "height": 550
-                                    },
-                                    "textAlign": "center",
-                                    "altText": "",
-                                    "action": {
-                                        "name": "web",
-                                        "values": {
-                                            "href": "",
-                                            "target": "_blank"
-                                        }
-                                    },
-                                    "hideDesktop": false,
-                                    "displayCondition": null,
-                                    "_meta": {
-                                        "htmlID": "u_content_image_6",
-                                        "htmlClassNames": "u_content_image"
-                                    },
-                                    "selectable": true,
-                                    "draggable": true,
-                                    "duplicatable": true,
-                                    "deletable": true,
-                                    "hideable": true
-                                }
-                            }
-                        ],
-                        "values": {
-                            "_meta": {
-                                "htmlID": "u_column_12",
-                                "htmlClassNames": "u_column"
-                            },
-                            "border": {},
-                            "padding": "0px",
-                            "borderRadius": "0px",
-                            "backgroundColor": ""
-                        }
-                    },
-                    {
-                        "id": "tBvHHdYsbP",
-                        "contents": [
-                            {
-                                "id": "YBq_C6WCxM",
-                                "type": "text",
+                                "id": "CE8hwPgv0z",
+                                "type": "heading",
                                 "values": {
                                     "containerPadding": "10px",
                                     "anchor": "",
-                                    "fontSize": "24px",
-                                    "textAlign": "center",
-                                    "lineHeight": "120%",
-                                    "linkStyle": {
-                                        "inherit": true,
-                                        "linkColor": "#0000ee",
-                                        "linkHoverColor": "#0000ee",
-                                        "linkUnderline": true,
-                                        "linkHoverUnderline": true
-                                    },
-                                    "hideDesktop": false,
-                                    "displayCondition": null,
-                                    "_meta": {
-                                        "htmlID": "u_content_text_18",
-                                        "htmlClassNames": "u_content_text"
-                                    },
-                                    "selectable": true,
-                                    "draggable": true,
-                                    "duplicatable": true,
-                                    "deletable": true,
-                                    "hideable": true,
-                                    "text": "<p style=\"line-height: 120%;\">Shop one on one with</p>\n<p style=\"line-height: 120%;\">a Mac Specialist.</p>"
-                                }
-                            },
-                            {
-                                "id": "0DF1Wlu-f8",
-                                "type": "text",
-                                "values": {
-                                    "containerPadding": "10px",
-                                    "anchor": "",
-                                    "fontSize": "14px",
-                                    "textAlign": "center",
-                                    "lineHeight": "150%",
-                                    "linkStyle": {
-                                        "inherit": true,
-                                        "linkColor": "#0000ee",
-                                        "linkHoverColor": "#0000ee",
-                                        "linkUnderline": true,
-                                        "linkHoverUnderline": true
-                                    },
-                                    "hideDesktop": false,
-                                    "displayCondition": null,
-                                    "_meta": {
-                                        "htmlID": "u_content_text_19",
-                                        "htmlClassNames": "u_content_text"
-                                    },
-                                    "selectable": true,
-                                    "draggable": true,
-                                    "duplicatable": true,
-                                    "deletable": true,
-                                    "hideable": true,
-                                    "text": "<p style=\"line-height: 150%;\">Our Specialists can help you choose, configure, and buy the perfect Mac.</p>"
-                                }
-                            },
-                            {
-                                "id": "3PX82nq2MS",
-                                "type": "text",
-                                "values": {
-                                    "containerPadding": "10px",
-                                    "anchor": "",
-                                    "fontSize": "14px",
-                                    "color": "#0071e3",
+                                    "headingType": "h2",
+                                    "fontSize": "20px",
                                     "textAlign": "center",
                                     "lineHeight": "140%",
                                     "linkStyle": {
@@ -500,68 +606,19 @@
                                         "linkUnderline": true,
                                         "linkHoverUnderline": true
                                     },
-                                    "hideDesktop": false,
                                     "displayCondition": null,
                                     "_meta": {
-                                        "htmlID": "u_content_text_20",
-                                        "htmlClassNames": "u_content_text"
+                                        "htmlID": "u_content_heading_4",
+                                        "htmlClassNames": "u_content_heading"
                                     },
                                     "selectable": true,
                                     "draggable": true,
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\">Find a store</p>"
+                                    "text": "<span><span><span>footer</span></span></span>"
                                 }
-                            }
-                        ],
-                        "values": {
-                            "_meta": {
-                                "htmlID": "u_column_13",
-                                "htmlClassNames": "u_column"
                             },
-                            "border": {},
-                            "padding": "33px",
-                            "borderRadius": "0px",
-                            "backgroundColor": ""
-                        }
-                    }
-                ],
-                "values": {
-                    "displayCondition": null,
-                    "columns": false,
-                    "backgroundColor": "#f7f7f7",
-                    "columnsBackgroundColor": "#000000",
-                    "backgroundImage": {
-                        "url": "",
-                        "fullWidth": true,
-                        "repeat": "no-repeat",
-                        "size": "custom",
-                        "position": "center"
-                    },
-                    "padding": "5px",
-                    "anchor": "",
-                    "hideDesktop": false,
-                    "_meta": {
-                        "htmlID": "u_row_8",
-                        "htmlClassNames": "u_row"
-                    },
-                    "selectable": true,
-                    "draggable": true,
-                    "duplicatable": true,
-                    "deletable": true,
-                    "hideable": true
-                }
-            },
-            {
-                "id": "he9WBb_LIA",
-                "cells": [
-                    1
-                ],
-                "columns": [
-                    {
-                        "id": "9KxIY1TsoO",
-                        "contents": [
                             {
                                 "id": "TJ6qaeBuzl",
                                 "type": "menu",

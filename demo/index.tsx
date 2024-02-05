@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom/client';
 import { createGlobalStyle } from 'styled-components';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
-import Example from './src/example';
+import Example from './src/templates';
 import Dashboard from './src/dashboard';
 
 const GlobalStyle = createGlobalStyle`
